@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\bin\Debug\net6.0\ex001_hello_concole.exe
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\bin\Debug\net6.0\ex001_hello_concole.deps.json
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\bin\Debug\net6.0\ex001_hello_concole.runtimeconfig.json
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\bin\Debug\net6.0\ex001_hello_concole.dll
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\bin\Debug\net6.0\ref\ex001_hello_concole.dll
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\bin\Debug\net6.0\ex001_hello_concole.pdb
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\obj\Debug\net6.0\ex001_hello_concole.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\obj\Debug\net6.0\ex001_hello_concole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\obj\Debug\net6.0\ex001_hello_concole.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\obj\Debug\net6.0\ex001_hello_concole.AssemblyInfo.cs
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\obj\Debug\net6.0\ex001_hello_concole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\obj\Debug\net6.0\ex001_hello_concole.dll
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\obj\Debug\net6.0\ref\ex001_hello_concole.dll
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\obj\Debug\net6.0\ex001_hello_concole.pdb
+C:\Users\User\Desktop\курс\с#\2022\первая лекция\ex001_hello_concole\obj\Debug\net6.0\ex001_hello_concole.genruntimeconfig.cache
